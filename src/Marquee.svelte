@@ -15,7 +15,7 @@
 
 <style>
   .marquee {
-    width: 100vw;
+    width: 100%;
     overflow: hidden;
   }
 
